@@ -1,0 +1,6 @@
+[package]
+name = "rust_rays"
+version = "0.1.0"
+authors = ["Filipe Scur <filipe_scur@gmail.com>"]
+
+[dependencies]
