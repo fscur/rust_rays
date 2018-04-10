@@ -1,5 +1,5 @@
 [package]
-name = "rust_rays"
+name = "render_server"
 version = "0.1.0"
 authors = ["Filipe Scur <filipe_scur@gmail.com>"]
 
